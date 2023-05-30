@@ -9,8 +9,7 @@ Camera type: Industrial high speed camera, Microscope camera, CCD/CMOS sensor
 Developed by Shenzhen Do3think Tecnology Co.,Ltd.
 https://do3think.en.ecplaza.net/
 
-How to use
-Dependencies
+# Dependencies
 This tutorial depends on the following libraries:
 
 numpy==1.16.2
